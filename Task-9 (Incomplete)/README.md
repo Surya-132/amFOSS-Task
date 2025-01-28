@@ -1,0 +1,1 @@
+Since I did not know C or C++, finding the syntax errors means that I would need to learn the language (which I was ready to do) but since I do not have enough time, I just left it half (Less than half probably) finished.s
