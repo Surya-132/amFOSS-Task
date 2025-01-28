@@ -1,0 +1,85 @@
+body 
+{
+    text-align: center;
+    background-color: #283149;
+    font-family: "Sofia", sans-serif;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 4.5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    font-family: "Sofia", sans-serif;
+  }
+
+  .w {
+    background-color: rgb(61, 193, 116);
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .a {
+    background-color:chartreuse;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .s {
+    background-color: #DBEDF3;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .d {
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .j {
+    background-color: aqua;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .k {
+    background-color: aquamarine;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .l {
+    background-color: azure;
+    box-shadow: 10px 10px 10px #000000;
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
